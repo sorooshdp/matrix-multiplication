@@ -1,0 +1,22 @@
+[package]
+name = "matrix_multiplication"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+winapi = { version = "0.3", features = ["winbase", "psapi", "processthreadsapi"] }
+
+[dev-dependencies]
+criterion = { version = "0.4.0", features = ["html_reports"] }
+
+[[bench]]
+name = "benchmark"
+harness = false
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
+panic = "abort"
+strip = true
+debug = false

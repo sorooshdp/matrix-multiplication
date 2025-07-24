@@ -1,0 +1,261 @@
+$env:RUSTFLAGS="-C target-cpu=native -C opt-level=3"; cargo run --release
+   Compiling winapi v0.3.9
+   Compiling matrix_multiplication v0.1.0 (E:\education\programming\rust\matrix_multiplication\matrix_multiplication)
+    Finished `release` profile [optimized] target(s) in 8.89s
+     Running `target\release\matrix_multiplication.exe`      
+Initial memory: 2560 KB
+Using 8 threads       
+Run 1: 
+Memory before: 2568 KB
+Memory delta: 528 KB
+Time: 19.991ms      
+Time taken: 19.991ms
+Run 2:
+Memory before: 3096 KB
+Memory delta: 18446744073709551612 KB
+Time: 23.1795ms
+Time taken: 23.1795ms
+Run 3:
+Memory before: 3092 KB
+Memory delta: 4 KB
+Time: 21.1277ms
+Time taken: 21.1277ms
+Run 4:
+Memory before: 3096 KB
+Memory delta: 0 KB
+Time: 23.5972ms
+Time taken: 23.5972ms
+Run 5:
+Memory before: 3096 KB
+Memory delta: 0 KB
+Time: 19.928ms
+Time taken: 19.928ms
+Run 6:
+Memory before: 3096 KB
+Memory delta: 18446744073709551612 KB
+Time: 21.7375ms
+Time taken: 21.7375ms
+Run 7:
+Memory before: 3092 KB
+Memory delta: 0 KB
+Time: 22.9067ms
+Time taken: 22.9067ms
+Run 8:
+Memory before: 3092 KB
+Memory delta: 0 KB
+Time: 18.4006ms
+Time taken: 18.4006ms
+Run 9:
+Memory before: 3092 KB
+Memory delta: 8 KB
+Time: 26.0792ms
+Time taken: 26.0792ms
+Run 10:
+Memory before: 3100 KB
+Memory delta: 0 KB
+Time: 22.3366ms
+Time taken: 22.3366ms
+Run 11:
+Memory before: 3100 KB
+Memory delta: 0 KB
+Time: 21.7163ms
+Time taken: 21.7163ms
+Run 12:
+Memory before: 3100 KB
+Memory delta: 0 KB
+Time: 22.5274ms
+Time taken: 22.5274ms
+Run 13:
+Memory before: 3100 KB
+Memory delta: 0 KB
+Time: 20.8112ms
+Time taken: 20.8112ms
+Run 14:
+Memory before: 3100 KB
+Memory delta: 0 KB
+Time: 22.4072ms
+Time taken: 22.4072ms
+Run 15:
+Memory before: 3100 KB
+Memory delta: 0 KB
+Time: 20.7326ms
+Time taken: 20.7326ms
+Run 16:
+Memory before: 3100 KB
+Memory delta: 0 KB
+Time: 22.4214ms
+Time taken: 22.4214ms
+Run 17:
+Memory before: 3100 KB
+Memory delta: 0 KB
+Time: 23.112ms
+Time taken: 23.112ms
+Run 18:
+Memory before: 3100 KB
+Memory delta: 0 KB
+Time: 27.238ms
+Time taken: 27.238ms
+Run 19:
+Memory before: 3100 KB
+Memory delta: 0 KB
+Time: 22.6257ms
+Time taken: 22.6257ms
+Run 20:
+Memory before: 3100 KB
+Memory delta: 0 KB
+Time: 22.1005ms
+Time taken: 22.1005ms
+Run 21:
+Memory before: 3100 KB
+Memory delta: 0 KB
+Time: 23.6944ms
+Time taken: 23.6944ms
+Run 22:
+Memory before: 3100 KB
+Memory delta: 20 KB
+Time: 22.6901ms
+Time taken: 22.6901ms
+Run 23:
+Memory before: 3120 KB
+Memory delta: 0 KB
+Time: 31.8595ms
+Time taken: 31.8595ms
+Run 24:
+Memory before: 3120 KB
+Memory delta: 0 KB
+Time: 21.5716ms
+Time taken: 21.5716ms
+Run 25:
+Memory before: 3120 KB
+Memory delta: 0 KB
+Time: 29.1805ms
+Time taken: 29.1805ms
+Run 26:
+Memory before: 3120 KB
+Memory delta: 0 KB
+Time: 32.993ms
+Time taken: 32.993ms
+Run 27:
+Memory before: 3120 KB
+Memory delta: 18446744073709551612 KB
+Time: 25.8087ms
+Time taken: 25.8087ms
+Run 28:
+Memory before: 3116 KB
+Memory delta: 0 KB
+Time: 31.3918ms
+Time taken: 31.3918ms
+Run 29:
+Memory before: 3116 KB
+Memory delta: 0 KB
+Time: 32.7254ms
+Time taken: 32.7254ms
+Run 30:
+Memory before: 3116 KB
+Memory delta: 0 KB
+Time: 35.7877ms
+Time taken: 35.7877ms
+Run 31:
+Memory before: 3116 KB
+Memory delta: 0 KB
+Time: 30.1658ms
+Time taken: 30.1658ms
+Run 32:
+Memory before: 3116 KB
+Memory delta: 0 KB
+Time: 32.0219ms
+Time taken: 32.0219ms
+Run 33:
+Memory before: 3116 KB
+Memory delta: 0 KB
+Time: 22.5235ms
+Time taken: 22.5235ms
+Run 34:
+Memory before: 3116 KB
+Memory delta: 0 KB
+Time: 22.7219ms
+Time taken: 22.7219ms
+Run 35:
+Memory before: 3116 KB
+Memory delta: 0 KB
+Time: 24.7416ms
+Time taken: 24.7416ms
+Run 36:
+Memory before: 3116 KB
+Memory delta: 0 KB
+Time: 26.9263ms
+Time taken: 26.9263ms
+Run 37:
+Memory before: 3116 KB
+Memory delta: 0 KB
+Time: 25.356ms
+Time taken: 25.356ms
+Run 38:
+Memory before: 3116 KB
+Memory delta: 0 KB
+Time: 24.0305ms
+Time taken: 24.0305ms
+Run 39:
+Memory before: 3116 KB
+Memory delta: 0 KB
+Time: 24.4903ms
+Time taken: 24.4903ms
+Run 40:
+Memory before: 3116 KB
+Memory delta: 0 KB
+Time: 20.6765ms
+Time taken: 20.6765ms
+Run 41:
+Memory before: 3116 KB
+Memory delta: 0 KB
+Time: 23.6315ms
+Time taken: 23.6315ms
+Run 42:
+Memory before: 3116 KB
+Memory delta: 0 KB
+Time: 22.0377ms
+Time taken: 22.0377ms
+Run 43:
+Memory before: 3116 KB
+Memory delta: 0 KB
+Time: 22.9472ms
+Time taken: 22.9472ms
+Run 44:
+Memory before: 3116 KB
+Memory delta: 0 KB
+Time: 24.0815ms
+Time taken: 24.0815ms
+Run 45:
+Memory before: 3116 KB
+Memory delta: 0 KB
+Time: 25.4636ms
+Time taken: 25.4636ms
+Run 46:
+Memory before: 3116 KB
+Memory delta: 0 KB
+Time: 27.2286ms
+Time taken: 27.2286ms
+Run 47: 
+Memory before: 3116 KB
+Memory delta: 0 KB
+Time: 22.9531ms
+Time taken: 22.9531ms
+Run 48:
+Memory before: 3116 KB
+Memory delta: 0 KB
+Time: 23.4278ms
+Time taken: 23.4278ms
+Run 49:
+Memory before: 3116 KB
+Memory delta: 0 KB
+Time: 23.0018ms
+Time taken: 23.0018ms
+Run 50:
+Memory before: 3116 KB
+Memory delta: 0 KB
+Time: 23.1654ms
+Time taken: 23.1654ms
+Minimum time taken in seconds: 0.0184006
+Peak memory usage: 3120 KB
+Total memory increase: 560 KB
+Press Enter to exit...

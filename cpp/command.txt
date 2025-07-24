@@ -1,0 +1,4 @@
+for main.cpp:
+    gcc -O3 main.cpp -o main.exe
+for parallel.cpp:
+    g++ -O3 -march=native -fopenmp -o parallel.exe parallel.cpp

@@ -1,0 +1,2 @@
+$env:RUSTFLAGS="-C target-cpu=native -C opt-level=3"; cargo build --release
+$env:RUSTFLAGS="-C target-cpu=native -C opt-level=3"; cargo run --release

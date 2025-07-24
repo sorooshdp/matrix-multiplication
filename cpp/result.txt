@@ -1,0 +1,121 @@
+Initial memory: 3036 KB
+Using 8 threads
+Matrix size: 500x500
+Element size: 4 bytes
+Total matrix memory: 2.86102 MB
+
+Benchmarking SEQUENTIAL:
+Run 1: 0.0211254 s, Memory: 2236 KB
+Run 2: 0.0130773 s, Memory: 0 KB
+Run 3: 0.0126898 s, Memory: 0 KB
+Run 4: 0.0120728 s, Memory: 0 KB
+Run 5: 0.0124854 s, Memory: 0 KB
+Run 6: 0.0121198 s, Memory: 18446744073709550632 KB
+Run 7: 0.0132393 s, Memory: 0 KB
+Run 8: 0.0134795 s, Memory: 0 KB
+Run 9: 0.0133212 s, Memory: 0 KB
+Run 10: 0.0135091 s, Memory: 0 KB
+Run 11: 0.0124905 s, Memory: 0 KB
+Run 12: 0.0133227 s, Memory: 0 KB
+Run 13: 0.0130439 s, Memory: 0 KB
+Run 14: 0.0171095 s, Memory: 0 KB
+Run 15: 0.0176237 s, Memory: 0 KB
+Run 16: 0.0134549 s, Memory: 0 KB
+Run 17: 0.014656 s, Memory: 0 KB
+Run 18: 0.0176448 s, Memory: 0 KB
+Run 19: 0.0161185 s, Memory: 0 KB
+Run 20: 0.0171424 s, Memory: 0 KB
+Run 21: 0.0157266 s, Memory: 0 KB
+Run 22: 0.0129608 s, Memory: 0 KB
+Run 23: 0.0130231 s, Memory: 0 KB
+Run 24: 0.0143745 s, Memory: 0 KB
+Run 25: 0.0130061 s, Memory: 0 KB
+Run 26: 0.0126516 s, Memory: 0 KB
+Run 27: 0.0130451 s, Memory: 0 KB
+Run 28: 0.0133575 s, Memory: 0 KB
+Run 29: 0.0123745 s, Memory: 0 KB
+Run 30: 0.0127928 s, Memory: 0 KB
+Run 31: 0.0131427 s, Memory: 0 KB
+Run 32: 0.0127401 s, Memory: 0 KB
+Run 33: 0.0132198 s, Memory: 0 KB
+Run 34: 0.0133601 s, Memory: 0 KB
+Run 35: 0.0132959 s, Memory: 0 KB
+Run 36: 0.0128441 s, Memory: 0 KB
+Run 37: 0.0120014 s, Memory: 0 KB
+Run 38: 0.0126157 s, Memory: 0 KB
+Run 39: 0.012996 s, Memory: 0 KB
+Run 40: 0.0135595 s, Memory: 0 KB
+Run 41: 0.012822 s, Memory: 0 KB
+Run 42: 0.0135894 s, Memory: 0 KB
+Run 43: 0.0124847 s, Memory: 0 KB
+Run 44: 0.0129183 s, Memory: 0 KB
+Run 45: 0.0125043 s, Memory: 0 KB
+Run 46: 0.0124079 s, Memory: 0 KB
+Run 47: 0.0129508 s, Memory: 0 KB
+Run 48: 0.0121907 s, Memory: 0 KB
+Run 49: 0.0138409 s, Memory: 0 KB
+Run 50: 0.0127609 s, Memory: 0 KB
+
+Benchmarking PARALLEL:
+Run 1: 0.0044153 s, Memory: 0 KB
+Run 2: 0.004331 s, Memory: 0 KB
+Run 3: 0.0042765 s, Memory: 0 KB
+Run 4: 0.004725 s, Memory: 0 KB
+Run 5: 0.0043109 s, Memory: 0 KB
+Run 6: 0.0044683 s, Memory: 0 KB
+Run 7: 0.0042994 s, Memory: 0 KB
+Run 8: 0.0042861 s, Memory: 0 KB
+Run 9: 0.0042436 s, Memory: 0 KB
+Run 10: 0.0042202 s, Memory: 0 KB
+Run 11: 0.0047123 s, Memory: 0 KB
+Run 12: 0.0042668 s, Memory: 0 KB
+Run 13: 0.004378 s, Memory: 0 KB
+Run 14: 0.0042109 s, Memory: 0 KB
+Run 15: 0.0042832 s, Memory: 0 KB
+Run 16: 0.00439 s, Memory: 0 KB
+Run 17: 0.0045526 s, Memory: 0 KB
+Run 18: 0.0042433 s, Memory: 0 KB
+Run 19: 0.0044321 s, Memory: 0 KB
+Run 20: 0.0046096 s, Memory: 0 KB
+Run 21: 0.0040052 s, Memory: 0 KB
+Run 22: 0.0041485 s, Memory: 0 KB
+Run 23: 0.0044528 s, Memory: 0 KB
+Run 24: 0.0041216 s, Memory: 0 KB
+Run 25: 0.0039537 s, Memory: 0 KB
+Run 26: 0.0039203 s, Memory: 0 KB
+Run 27: 0.0043201 s, Memory: 0 KB
+Run 28: 0.0038273 s, Memory: 0 KB
+Run 29: 0.0039868 s, Memory: 0 KB
+Run 30: 0.0041924 s, Memory: 0 KB
+Run 31: 0.0040006 s, Memory: 0 KB
+Run 32: 0.0041566 s, Memory: 0 KB
+Run 33: 0.0044111 s, Memory: 0 KB
+Run 34: 0.0041705 s, Memory: 0 KB
+Run 35: 0.0040042 s, Memory: 0 KB
+Run 36: 0.004085 s, Memory: 0 KB
+Run 37: 0.0039697 s, Memory: 0 KB
+Run 38: 0.0041201 s, Memory: 0 KB
+Run 39: 0.0041081 s, Memory: 0 KB
+Run 40: 0.0040532 s, Memory: 0 KB
+Run 41: 0.0044926 s, Memory: 0 KB
+Run 42: 0.0039427 s, Memory: 0 KB
+Run 43: 0.0039661 s, Memory: 0 KB
+Run 44: 0.0040622 s, Memory: 0 KB
+Run 45: 0.0043747 s, Memory: 0 KB
+Run 46: 0.0035628 s, Memory: 0 KB
+Run 47: 0.0038852 s, Memory: 0 KB
+Run 48: 0.0042293 s, Memory: 0 KB
+Run 49: 0.0039369 s, Memory: 0 KB
+Run 50: 0.0042222 s, Memory: 0 KB
+
+RESULTS:
+Sequential min: 0.0120014 s
+Parallel min:   0.0035628 s
+Speedup:        3.36853x
+Parallel efficiency: 42.1066%
+
+Memory savings:
+- Element size: 4 bytes (u32) vs 8 bytes (f64)
+- Total matrix memory: 2.86102 MB vs 5.72205 MB (3 matrices)
+Sequential result[0]: 103968000
+Parallel result[0]:   103968000

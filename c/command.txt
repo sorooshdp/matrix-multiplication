@@ -1,0 +1,5 @@
+for main.c:
+gcc -O3 main.c -o main.exe
+
+for parallel.c:
+gcc -O3 -fopenmp -march=native -funroll-loops parallel.c -o parallel.exe

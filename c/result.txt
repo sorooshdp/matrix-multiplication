@@ -1,0 +1,114 @@
+Using 8 threads
+Matrix size: 500x500
+Element size: 4 bytes
+Total matrix memory: 2.86 MB
+
+Benchmarking SEQUENTIAL:
+Run 1: 0.024000 s, Memory: 248 KB
+Run 2: 0.015000 s, Memory: 972 KB
+Run 3: 0.012000 s, Memory: 0 KB
+Run 4: 0.012000 s, Memory: 0 KB
+Run 5: 0.013000 s, Memory: 0 KB
+Run 6: 0.012000 s, Memory: 0 KB
+Run 7: 0.013000 s, Memory: 0 KB
+Run 8: 0.013000 s, Memory: 0 KB
+Run 9: 0.012000 s, Memory: 0 KB
+Run 10: 0.012000 s, Memory: 0 KB
+Run 11: 0.014000 s, Memory: 0 KB
+Run 12: 0.012000 s, Memory: 0 KB
+Run 13: 0.012000 s, Memory: 0 KB
+Run 14: 0.012000 s, Memory: 0 KB
+Run 15: 0.012000 s, Memory: 0 KB
+Run 16: 0.012000 s, Memory: 0 KB
+Run 17: 0.012000 s, Memory: 0 KB
+Run 18: 0.011000 s, Memory: 0 KB
+Run 19: 0.013000 s, Memory: 0 KB
+Run 20: 0.012000 s, Memory: 0 KB
+Run 21: 0.012000 s, Memory: 0 KB
+Run 22: 0.012000 s, Memory: 0 KB
+Run 23: 0.012000 s, Memory: 0 KB
+Run 24: 0.011000 s, Memory: 0 KB
+Run 25: 0.014000 s, Memory: 0 KB
+Run 26: 0.014000 s, Memory: 0 KB
+Run 27: 0.012000 s, Memory: 0 KB
+Run 28: 0.012000 s, Memory: 0 KB
+Run 29: 0.014000 s, Memory: 0 KB
+Run 30: 0.011000 s, Memory: 0 KB
+Run 31: 0.014000 s, Memory: 0 KB
+Run 32: 0.013000 s, Memory: 0 KB
+Run 33: 0.012000 s, Memory: 0 KB
+Run 34: 0.013000 s, Memory: 0 KB
+Run 35: 0.013000 s, Memory: 0 KB
+Run 36: 0.012000 s, Memory: 0 KB
+Run 37: 0.012000 s, Memory: 0 KB
+Run 38: 0.011000 s, Memory: 0 KB
+Run 39: 0.014000 s, Memory: 0 KB
+Run 40: 0.012000 s, Memory: 0 KB
+Run 41: 0.013000 s, Memory: 0 KB
+Run 42: 0.013000 s, Memory: 0 KB
+Run 43: 0.012000 s, Memory: 0 KB
+Run 44: 0.013000 s, Memory: 0 KB
+Run 45: 0.015000 s, Memory: 0 KB
+Run 46: 0.015000 s, Memory: 0 KB
+Run 47: 0.012000 s, Memory: 0 KB
+Run 48: 0.012000 s, Memory: 0 KB
+Run 49: 0.014000 s, Memory: 0 KB
+Run 50: 0.013000 s, Memory: 0 KB
+
+Benchmarking PARALLEL:
+Run 1: 0.003000 s, Memory: 0 KB
+Run 2: 0.004000 s, Memory: 0 KB
+Run 3: 0.004000 s, Memory: 0 KB
+Run 4: 0.004000 s, Memory: 0 KB
+Run 5: 0.003000 s, Memory: 0 KB
+Run 6: 0.005000 s, Memory: 0 KB
+Run 7: 0.004000 s, Memory: 0 KB
+Run 8: 0.004000 s, Memory: 0 KB
+Run 9: 0.003000 s, Memory: 0 KB
+Run 10: 0.004000 s, Memory: 0 KB
+Run 11: 0.003000 s, Memory: 0 KB
+Run 12: 0.004000 s, Memory: 0 KB
+Run 13: 0.004000 s, Memory: 0 KB
+Run 14: 0.004000 s, Memory: 0 KB
+Run 15: 0.003000 s, Memory: 0 KB
+Run 16: 0.003000 s, Memory: 0 KB
+Run 17: 0.004000 s, Memory: 0 KB
+Run 18: 0.005000 s, Memory: 0 KB
+Run 19: 0.003000 s, Memory: 0 KB
+Run 20: 0.004000 s, Memory: 0 KB
+Run 21: 0.004000 s, Memory: 0 KB
+Run 22: 0.004000 s, Memory: 0 KB
+Run 23: 0.004000 s, Memory: 0 KB
+Run 24: 0.004000 s, Memory: 0 KB
+Run 25: 0.004000 s, Memory: 0 KB
+Run 26: 0.004000 s, Memory: 0 KB
+Run 27: 0.004000 s, Memory: 0 KB
+Run 28: 0.004000 s, Memory: 0 KB
+Run 29: 0.003000 s, Memory: 0 KB
+Run 30: 0.004000 s, Memory: 0 KB
+Run 31: 0.003000 s, Memory: 0 KB
+Run 32: 0.003000 s, Memory: 0 KB
+Run 33: 0.003000 s, Memory: 0 KB
+Run 34: 0.004000 s, Memory: 0 KB
+Run 35: 0.004000 s, Memory: 0 KB
+Run 36: 0.004000 s, Memory: 0 KB
+Run 37: 0.003000 s, Memory: 0 KB
+Run 38: 0.003000 s, Memory: 0 KB
+Run 39: 0.003000 s, Memory: 0 KB
+Run 40: 0.004000 s, Memory: 0 KB
+Run 41: 0.003000 s, Memory: 0 KB
+Run 42: 0.004000 s, Memory: 0 KB
+Run 43: 0.003000 s, Memory: 0 KB
+Run 44: 0.003000 s, Memory: 0 KB
+Run 45: 0.003000 s, Memory: 0 KB
+Run 46: 0.003000 s, Memory: 0 KB
+Run 47: 0.004000 s, Memory: 0 KB
+Run 48: 0.003000 s, Memory: 0 KB
+Run 49: 0.004000 s, Memory: 0 KB
+Run 50: 0.003000 s, Memory: 0 KB
+
+RESULTS:
+Sequential min: 0.011000 s
+Parallel min:   0.003000 s
+Speedup: 3.67x
+Parallel efficiency: 45.8%

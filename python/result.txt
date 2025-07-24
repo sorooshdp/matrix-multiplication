@@ -1,0 +1,156 @@
+ python .\main.py
+Initial memory: 11776 KB
+Run 1 - Before: 11776 KB
+Delta: 12136 KB
+Time: 8.788191 s
+Run 2 - Before: 23916 KB
+Delta: 7688 KB
+Time: 10.162729 s
+Run 3 - Before: 31668 KB
+Delta: 424 KB
+Time: 9.549477 s
+Run 4 - Before: 32092 KB
+Delta: 304 KB
+Time: 9.320097 s
+Run 5 - Before: 32396 KB
+Delta: -260 KB
+Time: 11.038569 s
+Run 6 - Before: 32136 KB
+Delta: 96 KB
+Time: 11.914478 s
+Run 7 - Before: 32232 KB
+Delta: 144 KB
+Time: 12.915968 s
+Run 8 - Before: 32376 KB
+Delta: -32 KB
+Time: 12.480474 s
+Run 9 - Before: 32344 KB
+Delta: -248 KB
+Time: 11.541666 s
+Run 10 - Before: 32096 KB
+Delta: 16 KB
+Time: 9.306136 s
+Run 11 - Before: 32112 KB
+Delta: -44 KB
+Time: 12.230074 s
+Run 12 - Before: 32068 KB
+Delta: 20 KB
+Time: 11.323391 s
+Run 13 - Before: 32088 KB
+Delta: -32 KB
+Time: 10.027223 s
+Run 14 - Before: 32056 KB
+Delta: 4 KB
+Time: 10.071529 s
+Run 15 - Before: 32060 KB
+Delta: 272 KB
+Time: 10.342982 s
+Run 16 - Before: 32332 KB
+Delta: -260 KB
+Time: 10.150712 s
+Run 17 - Before: 32072 KB
+Delta: 236 KB
+Time: 10.544628 s
+Run 18 - Before: 32308 KB
+Delta: -272 KB
+Time: 11.936450 s
+Run 19 - Before: 32036 KB
+Delta: 20 KB
+Time: 11.005797 s
+Run 20 - Before: 32056 KB
+Delta: 256 KB
+Time: 11.692893 s
+Run 21 - Before: 32312 KB
+Delta: -248 KB
+Time: 11.287106 s
+Run 22 - Before: 32064 KB
+Delta: -8 KB
+Time: 11.489729 s
+Run 23 - Before: 32056 KB
+Delta: -28 KB
+Time: 10.858251 s
+Run 24 - Before: 32028 KB
+Delta: -240 KB
+Time: 13.694366 s
+Run 25 - Before: 31788 KB
+Delta: 796 KB
+Time: 10.471427 s
+Run 26 - Before: 32584 KB
+Delta: -280 KB
+Time: 11.014010 s
+Run 27 - Before: 32304 KB
+Delta: 32 KB
+Time: 8.320317 s
+Run 28 - Before: 32336 KB
+Delta: -256 KB
+Time: 8.160835 s
+Run 29 - Before: 32080 KB
+Delta: 264 KB
+Time: 8.359608 s
+Run 30 - Before: 32344 KB
+Delta: -324 KB
+Time: 8.235570 s
+Run 31 - Before: 32020 KB
+Delta: 48 KB
+Time: 8.760529 s
+Run 32 - Before: 32068 KB
+Delta: 12 KB
+Time: 9.130123 s
+Run 33 - Before: 32080 KB
+Delta: 12 KB
+Time: 8.820198 s
+Run 34 - Before: 32092 KB
+Delta: -24 KB
+Time: 8.721783 s
+Run 35 - Before: 32068 KB
+Delta: 284 KB
+Time: 8.986039 s
+Run 36 - Before: 32352 KB
+Delta: -260 KB
+Time: 9.114383 s
+Run 37 - Before: 32092 KB
+Delta: 264 KB
+Time: 8.616716 s
+Run 38 - Before: 32356 KB
+Delta: 0 KB
+Time: 9.172699 s
+Run 39 - Before: 32356 KB
+Delta: -260 KB
+Time: 8.707281 s
+Run 40 - Before: 32096 KB
+Delta: -8 KB
+Time: 8.670009 s
+Run 41 - Before: 32088 KB
+Delta: 264 KB
+Time: 9.177567 s
+Run 42 - Before: 32352 KB
+Delta: 0 KB
+Time: 8.586271 s
+Run 43 - Before: 32352 KB
+Delta: 4 KB
+Time: 8.572453 s
+Run 44 - Before: 32356 KB
+Delta: -260 KB
+Time: 12.082875 s
+Run 45 - Before: 32096 KB
+Delta: -16 KB
+Time: 12.132040 s
+Run 46 - Before: 32080 KB
+Delta: 144 KB
+Time: 10.776217 s
+Run 47 - Before: 32224 KB
+Delta: 4 KB
+Time: 11.870468 s
+Run 48 - Before: 32228 KB
+Delta: 168 KB
+Time: 9.912731 s
+Run 49 - Before: 32396 KB
+Delta: -316 KB
+Time: 9.349425 s
+Run 50 - Before: 32080 KB
+Delta: 296 KB
+Time: 11.591303 s
+
+Peak: 32584 KB
+Total increase: 20808 KB
+Min time: 8.160835 s

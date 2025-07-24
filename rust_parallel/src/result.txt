@@ -1,0 +1,125 @@
+$env:RUSTFLAGS="-C target-cpu=native -C opt-level=3"; cargo run --release
+   Compiling rust_parallel v0.1.0 (E:\education\programming\rust\matrix_multiplication\rust_parallel)
+    Finished `release` profile [optimized] target(s) in 1.45s
+     Running `target\release\rust_parallel.exe`
+Initial memory: 2568 KB
+Using 8 threads
+Matrix size: 500x500
+Element size: 4 bytes
+Total matrix memory: 2.86 MB
+
+Benchmarking SEQUENTIAL:
+Run 1:  0.027799 s, Memory:   1968 KB
+Run 2:  0.017626 s, Memory:      0 KB
+Run 3:  0.023785 s, Memory:      0 KB
+Run 4:  0.026938 s, Memory:      0 KB
+Run 5:  0.022579 s, Memory:      0 KB
+Run 6:  0.018394 s, Memory:      0 KB
+Run 7:  0.023057 s, Memory:      0 KB
+Run 8:  0.019940 s, Memory:      0 KB
+Run 9:  0.021558 s, Memory:      0 KB
+Run 10:  0.027557 s, Memory:      0 KB
+Run 11:  0.016667 s, Memory:      0 KB
+Run 12:  0.024001 s, Memory:      0 KB
+Run 13:  0.029025 s, Memory:      0 KB
+Run 14:  0.019688 s, Memory:      0 KB
+Run 15:  0.018332 s, Memory:      0 KB
+Run 16:  0.018374 s, Memory:      0 KB
+Run 17:  0.017397 s, Memory:      0 KB
+Run 18:  0.016082 s, Memory:      0 KB
+Run 19:  0.016270 s, Memory:      0 KB
+Run 20:  0.016765 s, Memory:      0 KB
+Run 21:  0.017969 s, Memory:      0 KB
+Run 22:  0.015546 s, Memory:      0 KB
+Run 23:  0.016524 s, Memory:      0 KB
+Run 24:  0.015742 s, Memory:      0 KB
+Run 25:  0.016628 s, Memory:      0 KB
+Run 26:  0.016401 s, Memory:      0 KB
+Run 27:  0.016521 s, Memory:      0 KB
+Run 28:  0.016088 s, Memory:      0 KB
+Run 29:  0.016366 s, Memory:      0 KB
+Run 30:  0.015831 s, Memory:      0 KB
+Run 31:  0.016524 s, Memory:      0 KB
+Run 32:  0.016518 s, Memory:      0 KB
+Run 33:  0.016260 s, Memory:      0 KB
+Run 34:  0.016709 s, Memory:      0 KB
+Run 35:  0.016178 s, Memory:      0 KB
+Run 36:  0.016439 s, Memory:      0 KB
+Run 37:  0.016448 s, Memory:      0 KB
+Run 38:  0.016577 s, Memory:      0 KB
+Run 39:  0.016202 s, Memory:      0 KB
+Run 40:  0.016211 s, Memory:      0 KB
+Run 41:  0.016652 s, Memory:      0 KB
+Run 42:  0.016758 s, Memory:      0 KB
+Run 43:  0.017201 s, Memory:      0 KB
+Run 44:  0.018196 s, Memory:      0 KB
+Run 45:  0.017641 s, Memory:      0 KB
+Run 46:  0.017597 s, Memory:      0 KB
+Run 47:  0.017613 s, Memory:      0 KB
+Run 48:  0.015495 s, Memory:      0 KB
+Run 49:  0.017187 s, Memory:      0 KB
+Run 50:  0.016020 s, Memory:      0 KB
+
+Benchmarking PARALLEL:
+Run 1:  0.007304 s, Memory:     12 KB
+Run 2:  0.006705 s, Memory:      0 KB
+Run 3:  0.006530 s, Memory:      0 KB
+Run 4:  0.006125 s, Memory:      8 KB
+Run 5:  0.006404 s, Memory:      0 KB
+Run 6:  0.006644 s, Memory:      0 KB
+Run 7:  0.006811 s, Memory:      0 KB
+Run 8:  0.006766 s, Memory:      0 KB
+Run 9:  0.006526 s, Memory:      0 KB
+Run 10:  0.007440 s, Memory:      0 KB
+Run 11:  0.006316 s, Memory:      0 KB
+Run 12:  0.006828 s, Memory:      0 KB
+Run 13:  0.007273 s, Memory:      0 KB
+Run 14:  0.006668 s, Memory:      0 KB
+Run 15:  0.007635 s, Memory:      0 KB
+Run 16:  0.006338 s, Memory:      0 KB
+Run 17:  0.006906 s, Memory:      4 KB
+Run 18:  0.006102 s, Memory:      0 KB
+Run 19:  0.006838 s, Memory:      0 KB
+Run 20:  0.006750 s, Memory:      0 KB
+Run 21:  0.005766 s, Memory:      0 KB
+Run 22:  0.007010 s, Memory:      0 KB
+Run 23:  0.006308 s, Memory:      0 KB
+Run 24:  0.006621 s, Memory:      0 KB
+Run 25:  0.006413 s, Memory:      0 KB
+Run 26:  0.006166 s, Memory:      0 KB
+Run 27:  0.006716 s, Memory:      0 KB
+Run 28:  0.006187 s, Memory:      0 KB
+Run 29:  0.006634 s, Memory:      0 KB
+Run 30:  0.006214 s, Memory:      0 KB
+Run 31:  0.006194 s, Memory:      0 KB
+Run 32:  0.006459 s, Memory:      0 KB
+Run 33:  0.006556 s, Memory:      0 KB
+Run 34:  0.006565 s, Memory:      0 KB
+Run 35:  0.006329 s, Memory:      0 KB
+Run 36:  0.006199 s, Memory:      0 KB
+Run 37:  0.006438 s, Memory:      0 KB
+Run 38:  0.006163 s, Memory:      0 KB
+Run 39:  0.006297 s, Memory:      0 KB
+Run 40:  0.006544 s, Memory:      0 KB
+Run 41:  0.006155 s, Memory:      0 KB
+Run 42:  0.006379 s, Memory:      0 KB
+Run 43:  0.006291 s, Memory:      0 KB
+Run 44:  0.006289 s, Memory:      0 KB
+Run 45:  0.006330 s, Memory:      0 KB
+Run 46:  0.006072 s, Memory:      0 KB
+Run 47:  0.006038 s, Memory:      0 KB
+Run 48:  0.006163 s, Memory:      0 KB
+Run 49:  0.006535 s, Memory:      0 KB
+Run 50:  0.006335 s, Memory:      0 KB
+
+RESULTS:
+Sequential min: 0.015495 s
+Parallel min:   0.005766 s
+Speedup:        2.69x
+Parallel efficiency: 33.6%
+
+Validation:
+Expected value: 103968000
+Sequential result[0]: 103968000
+Parallel result[0]:   103968000
+Results match!

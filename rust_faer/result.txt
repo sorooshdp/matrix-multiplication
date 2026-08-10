@@ -1,0 +1,57 @@
+Initial memory: 18604 KB
+Matrix size: 1000x1000
+Library: faer (pure-Rust, auto-parallelized internally)
+Run  1:  0.019787 s, Memory delta: 8 KB
+Run  2:  0.018835 s, Memory delta: 0 KB
+Run  3:  0.021932 s, Memory delta: 0 KB
+Run  4:  0.017994 s, Memory delta: 0 KB
+Run  5:  0.020012 s, Memory delta: 0 KB
+Run  6:  0.018791 s, Memory delta: 0 KB
+Run  7:  0.020723 s, Memory delta: 0 KB
+Run  8:  0.021405 s, Memory delta: 0 KB
+Run  9:  0.026878 s, Memory delta: 0 KB
+Run 10:  0.019131 s, Memory delta: 0 KB
+Run 11:  0.020834 s, Memory delta: 0 KB
+Run 12:  0.019592 s, Memory delta: 0 KB
+Run 13:  0.021037 s, Memory delta: 0 KB
+Run 14:  0.019375 s, Memory delta: 0 KB
+Run 15:  0.031005 s, Memory delta: 0 KB
+Run 16:  0.057352 s, Memory delta: 0 KB
+Run 17:  0.017551 s, Memory delta: 0 KB
+Run 18:  0.020625 s, Memory delta: 0 KB
+Run 19:  0.028128 s, Memory delta: 0 KB
+Run 20:  0.019594 s, Memory delta: 0 KB
+Run 21:  0.019329 s, Memory delta: 0 KB
+Run 22:  0.021956 s, Memory delta: 0 KB
+Run 23:  0.019007 s, Memory delta: 0 KB
+Run 24:  0.027177 s, Memory delta: 0 KB
+Run 25:  0.020273 s, Memory delta: 0 KB
+Run 26:  0.019485 s, Memory delta: 0 KB
+Run 27:  0.020371 s, Memory delta: 0 KB
+Run 28:  0.019666 s, Memory delta: 0 KB
+Run 29:  0.021701 s, Memory delta: 0 KB
+Run 30:  0.019237 s, Memory delta: 0 KB
+Run 31:  0.020244 s, Memory delta: 0 KB
+Run 32:  0.019427 s, Memory delta: 0 KB
+Run 33:  0.019472 s, Memory delta: 0 KB
+Run 34:  0.020952 s, Memory delta: 0 KB
+Run 35:  0.019050 s, Memory delta: 0 KB
+Run 36:  0.019277 s, Memory delta: 0 KB
+Run 37:  0.019867 s, Memory delta: 0 KB
+Run 38:  0.019551 s, Memory delta: 0 KB
+Run 39:  0.021684 s, Memory delta: 0 KB
+Run 40:  0.019156 s, Memory delta: 0 KB
+Run 41:  0.019722 s, Memory delta: 0 KB
+Run 42:  0.019546 s, Memory delta: 0 KB
+Run 43:  0.019450 s, Memory delta: 0 KB
+Run 44:  0.021010 s, Memory delta: 0 KB
+Run 45:  0.019454 s, Memory delta: 0 KB
+Run 46:  0.019739 s, Memory delta: 0 KB
+Run 47:  0.020371 s, Memory delta: 0 KB
+Run 48:  0.019546 s, Memory delta: 0 KB
+Run 49:  0.020615 s, Memory delta: 0 KB
+Run 50:  0.019405 s, Memory delta: 0 KB
+
+Minimum time: 0.017551 s
+Peak memory: 23104 KB
+Total memory increase: 4500 KB

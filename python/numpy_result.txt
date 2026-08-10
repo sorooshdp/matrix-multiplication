@@ -1,0 +1,56 @@
+Run  1 - Before: 45560 KB, Delta: 7944 KB, Time: 0.021788 s
+Run  2 - Before: 53504 KB, Delta: 0 KB, Time: 0.022079 s
+Run  3 - Before: 53504 KB, Delta: 0 KB, Time: 0.019744 s
+Run  4 - Before: 53504 KB, Delta: 0 KB, Time: 0.021206 s
+Run  5 - Before: 53504 KB, Delta: 0 KB, Time: 0.020777 s
+Run  6 - Before: 53504 KB, Delta: 0 KB, Time: 0.019822 s
+Run  7 - Before: 53504 KB, Delta: 0 KB, Time: 0.021234 s
+Run  8 - Before: 53504 KB, Delta: 0 KB, Time: 0.020450 s
+Run  9 - Before: 53504 KB, Delta: 0 KB, Time: 0.020187 s
+Run 10 - Before: 53504 KB, Delta: 0 KB, Time: 0.020886 s
+Run 11 - Before: 53504 KB, Delta: 0 KB, Time: 0.021107 s
+Run 12 - Before: 53504 KB, Delta: 0 KB, Time: 0.019820 s
+Run 13 - Before: 53504 KB, Delta: 0 KB, Time: 0.022804 s
+Run 14 - Before: 53504 KB, Delta: 0 KB, Time: 0.021180 s
+Run 15 - Before: 53504 KB, Delta: 0 KB, Time: 0.022698 s
+Run 16 - Before: 53504 KB, Delta: 0 KB, Time: 0.020625 s
+Run 17 - Before: 53504 KB, Delta: 0 KB, Time: 0.019410 s
+Run 18 - Before: 53504 KB, Delta: 0 KB, Time: 0.021309 s
+Run 19 - Before: 53504 KB, Delta: 0 KB, Time: 0.020736 s
+Run 20 - Before: 53504 KB, Delta: 0 KB, Time: 0.020966 s
+Run 21 - Before: 53504 KB, Delta: 0 KB, Time: 0.020726 s
+Run 22 - Before: 53504 KB, Delta: 0 KB, Time: 0.019950 s
+Run 23 - Before: 53504 KB, Delta: 0 KB, Time: 0.025014 s
+Run 24 - Before: 53504 KB, Delta: 0 KB, Time: 0.020413 s
+Run 25 - Before: 53504 KB, Delta: 0 KB, Time: 0.020534 s
+Run 26 - Before: 53504 KB, Delta: 0 KB, Time: 0.021729 s
+Run 27 - Before: 53504 KB, Delta: 0 KB, Time: 0.021086 s
+Run 28 - Before: 53504 KB, Delta: 0 KB, Time: 0.019921 s
+Run 29 - Before: 53504 KB, Delta: 0 KB, Time: 0.022854 s
+Run 30 - Before: 53504 KB, Delta: 0 KB, Time: 0.020428 s
+Run 31 - Before: 53504 KB, Delta: 0 KB, Time: 0.020271 s
+Run 32 - Before: 53504 KB, Delta: 0 KB, Time: 0.020599 s
+Run 33 - Before: 53504 KB, Delta: 0 KB, Time: 0.023777 s
+Run 34 - Before: 53504 KB, Delta: 0 KB, Time: 0.020957 s
+Run 35 - Before: 53504 KB, Delta: 0 KB, Time: 0.020425 s
+Run 36 - Before: 53504 KB, Delta: 0 KB, Time: 0.021214 s
+Run 37 - Before: 53504 KB, Delta: 0 KB, Time: 0.083680 s
+Run 38 - Before: 53504 KB, Delta: 0 KB, Time: 0.019855 s
+Run 39 - Before: 53504 KB, Delta: 0 KB, Time: 0.019660 s
+Run 40 - Before: 53504 KB, Delta: 0 KB, Time: 0.021116 s
+Run 41 - Before: 53504 KB, Delta: 0 KB, Time: 0.020899 s
+Run 43 - Before: 53504 KB, Delta: 0 KB, Time: 0.021248 s
+Run 44 - Before: 53504 KB, Delta: 0 KB, Time: 0.020543 s
+Run 45 - Before: 53504 KB, Delta: 0 KB, Time: 0.020321 s
+Run 46 - Before: 53504 KB, Delta: 0 KB, Time: 0.020150 s
+Run 47 - Before: 53504 KB, Delta: 0 KB, Time: 0.021070 s
+Run 48 - Before: 53504 KB, Delta: 0 KB, Time: 0.020283 s
+Run 49 - Before: 53504 KB, Delta: 0 KB, Time: 0.021548 s
+Run 50 - Before: 53504 KB, Delta: 0 KB, Time: 0.021791 s
+
+Peak memory: 53504 KB
+Total increase: 18672 KB
+Min time: 0.019410 s
+Result[0][0]: 207936000.0  (expected 207936000)
+First 10 elements: [2.07936e+08 2.07936e+08 2.07936e+08 2.07936e+08 2.07936e+08 2.07936e+08
+ 2.07936e+08 2.07936e+08 2.07936e+08 2.07936e+08]

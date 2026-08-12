@@ -1,0 +1,59 @@
+Matrix size: 1000x1000
+Library: OpenBLAS (cblas_dgemm, double precision)
+Initial memory: 31864 KB
+Run 1: 0.0181386 s, Memory delta: 60 KB
+Run 2: 0.0274315 s, Memory delta: 8 KB
+Run 3: 0.021542 s, Memory delta: 0 KB
+Run 4: 0.0231916 s, Memory delta: 0 KB
+Run 5: 0.0193306 s, Memory delta: 0 KB
+Run 6: 0.0190099 s, Memory delta: 0 KB
+Run 7: 0.0185166 s, Memory delta: 0 KB
+Run 8: 0.0254836 s, Memory delta: 0 KB
+Run 9: 0.0192995 s, Memory delta: 0 KB
+Run 10: 0.0161869 s, Memory delta: 0 KB
+Run 11: 0.0214592 s, Memory delta: 0 KB
+Run 12: 0.0258283 s, Memory delta: 0 KB
+Run 13: 0.0202943 s, Memory delta: 0 KB
+Run 14: 0.0145815 s, Memory delta: 0 KB
+Run 15: 0.0266028 s, Memory delta: 0 KB
+Run 16: 0.0192193 s, Memory delta: 0 KB
+Run 17: 0.0140989 s, Memory delta: 0 KB
+Run 18: 0.0272926 s, Memory delta: 0 KB
+Run 19: 0.0150695 s, Memory delta: 0 KB
+Run 20: 0.0151565 s, Memory delta: 0 KB
+Run 21: 0.021467 s, Memory delta: 0 KB
+Run 22: 0.0144126 s, Memory delta: 0 KB
+Run 23: 0.0243918 s, Memory delta: 0 KB
+Run 24: 0.0148342 s, Memory delta: 0 KB
+Run 25: 0.022771 s, Memory delta: 0 KB
+Run 26: 0.0146536 s, Memory delta: 0 KB
+Run 27: 0.0256011 s, Memory delta: 0 KB
+Run 28: 0.0206817 s, Memory delta: 0 KB
+Run 29: 0.0167514 s, Memory delta: 0 KB
+Run 30: 0.0159385 s, Memory delta: 0 KB
+Run 31: 0.0152268 s, Memory delta: 0 KB
+Run 32: 0.0149207 s, Memory delta: 0 KB
+Run 33: 0.0150634 s, Memory delta: 0 KB
+Run 34: 0.0206902 s, Memory delta: 0 KB
+Run 35: 0.0212829 s, Memory delta: 0 KB
+Run 36: 0.0168018 s, Memory delta: 0 KB
+Run 37: 0.0147536 s, Memory delta: 0 KB
+Run 38: 0.0149005 s, Memory delta: 0 KB
+Run 39: 0.0144889 s, Memory delta: 0 KB
+Run 40: 0.0148071 s, Memory delta: 0 KB
+Run 41: 0.0151015 s, Memory delta: 0 KB
+Run 42: 0.0145912 s, Memory delta: 0 KB
+Run 43: 0.0145252 s, Memory delta: 0 KB
+Run 44: 0.0144462 s, Memory delta: 0 KB
+Run 45: 0.0156697 s, Memory delta: 0 KB
+Run 46: 0.0155845 s, Memory delta: 0 KB
+Run 47: 0.0209461 s, Memory delta: 0 KB
+Run 48: 0.0154862 s, Memory delta: 0 KB
+Run 49: 0.024009 s, Memory delta: 0 KB
+Run 50: 0.0161437 s, Memory delta: 0 KB
+
+Min time: 0.0140989 s
+Peak memory: 32028 KB
+Total memory increase: 164 KB
+First 10 elements of result: 2.07936e+08 2.07936e+08 2.07936e+08 2.07936e+08 2.07936e+08 2.07936e+08 2.07936e+08 2.07936e+08 2.07936e+08 2.07936e+08
+Expected: 2.07936e+08

@@ -1,0 +1,3 @@
+replace the path with your own OpenBLAS folder location, or install OpenBLAS using a package manager.
+
+g++ -O3 -march=native -funroll-loops openblas_main.cpp -o openblas.exe -I"E:\downloads\Programs\OpenBLAS-0.3.34-x64\include" -L"E:\downloads\Programs\OpenBLAS-0.3.34-x64\lib" -lopenblas

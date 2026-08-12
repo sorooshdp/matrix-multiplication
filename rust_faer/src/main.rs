@@ -1,4 +1,4 @@
-use faer::{Mat, prelude::*};
+use faer::Mat;
 use std::hint::black_box;
 use std::mem::MaybeUninit;
 use std::time::Instant;

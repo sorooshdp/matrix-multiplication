@@ -10,7 +10,7 @@
 #include <psapi.h>
 #endif
 
-constexpr int MATRIX_SIZE = 500; 
+constexpr int MATRIX_SIZE = 1000; 
 
 using Matrix = std::vector<int>;  
 

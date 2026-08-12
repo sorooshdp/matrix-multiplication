@@ -1,0 +1,160 @@
+Initial memory usage: 946 KB
+Memory after creating matrices: 8562 KB (increase: 7616 KB)
+
+Matrix Multiplication Benchmark (1000*1000):
+Run 1 - Memory before multiplication: 8615 KB
+Run 1 - Memory after multiplication: 12752 KB (increase: 4137 KB)
+Run 1 - Time taken: 2.6043885 seconds
+Run 2 - Memory before multiplication: 8641 KB
+Run 2 - Memory after multiplication: 13404 KB (increase: 4763 KB)
+Run 2 - Time taken: 2.4052278 seconds
+Run 3 - Memory before multiplication: 8641 KB
+Run 3 - Memory after multiplication: 12648 KB (increase: 4007 KB)
+Run 3 - Time taken: 1.8775999 seconds
+Run 4 - Memory before multiplication: 8641 KB
+Run 4 - Memory after multiplication: 12624 KB (increase: 3983 KB)
+Run 4 - Time taken: 1.9098149 seconds
+Run 5 - Memory before multiplication: 8641 KB
+Run 5 - Memory after multiplication: 12614 KB (increase: 3973 KB)
+Run 5 - Time taken: 1.8802861 seconds
+Run 6 - Memory before multiplication: 8641 KB
+Run 6 - Memory after multiplication: 12617 KB (increase: 3976 KB)
+Run 6 - Time taken: 1.8349958 seconds
+Run 7 - Memory before multiplication: 8641 KB
+Run 7 - Memory after multiplication: 12627 KB (increase: 3986 KB)
+Run 7 - Time taken: 1.8168528 seconds
+Run 8 - Memory before multiplication: 8641 KB
+Run 8 - Memory after multiplication: 12632 KB (increase: 3991 KB)
+Run 8 - Time taken: 2.0941403 seconds
+Run 9 - Memory before multiplication: 8641 KB
+Run 9 - Memory after multiplication: 12732 KB (increase: 4091 KB)
+Run 9 - Time taken: 1.8161629 seconds
+Run 10 - Memory before multiplication: 8641 KB
+Run 10 - Memory after multiplication: 12623 KB (increase: 3982 KB)
+Run 10 - Time taken: 1.8455691 seconds
+Run 11 - Memory before multiplication: 8641 KB
+Run 11 - Memory after multiplication: 12737 KB (increase: 4096 KB)
+Run 11 - Time taken: 1.9872049 seconds
+Run 12 - Memory before multiplication: 8641 KB
+Run 12 - Memory after multiplication: 12615 KB (increase: 3974 KB)
+Run 12 - Time taken: 1.9819923 seconds
+Run 13 - Memory before multiplication: 8641 KB
+Run 13 - Memory after multiplication: 12652 KB (increase: 4011 KB)
+Run 13 - Time taken: 1.8102864 seconds
+Run 14 - Memory before multiplication: 8641 KB
+Run 14 - Memory after multiplication: 12725 KB (increase: 4084 KB)
+Run 14 - Time taken: 1.9737818 seconds
+Run 15 - Memory before multiplication: 8641 KB
+Run 15 - Memory after multiplication: 12623 KB (increase: 3982 KB)
+Run 15 - Time taken: 2.0939482 seconds
+Run 16 - Memory before multiplication: 8641 KB
+Run 16 - Memory after multiplication: 12622 KB (increase: 3981 KB)
+Run 16 - Time taken: 2.0705503 seconds
+Run 17 - Memory before multiplication: 8641 KB
+Run 17 - Memory after multiplication: 12621 KB (increase: 3980 KB)
+Run 17 - Time taken: 2.1698948 seconds
+Run 18 - Memory before multiplication: 8641 KB
+Run 18 - Memory after multiplication: 12622 KB (increase: 3981 KB)
+Run 18 - Time taken: 2.427857 seconds
+Run 19 - Memory before multiplication: 8641 KB
+Run 19 - Memory after multiplication: 12724 KB (increase: 4083 KB)
+Run 19 - Time taken: 2.3629436 seconds
+Run 20 - Memory before multiplication: 8641 KB
+Run 20 - Memory after multiplication: 12631 KB (increase: 3990 KB)
+Run 20 - Time taken: 2.4170811 seconds
+Run 21 - Memory before multiplication: 8641 KB
+Run 21 - Memory after multiplication: 12724 KB (increase: 4083 KB)
+Run 21 - Time taken: 2.2704546 seconds
+Run 22 - Memory before multiplication: 8641 KB
+Run 22 - Memory after multiplication: 12635 KB (increase: 3994 KB)
+Run 22 - Time taken: 2.1890247 seconds
+Run 23 - Memory before multiplication: 8641 KB
+Run 23 - Memory after multiplication: 12626 KB (increase: 3985 KB)
+Run 23 - Time taken: 2.405198 seconds
+Run 24 - Memory before multiplication: 8641 KB
+Run 24 - Memory after multiplication: 12621 KB (increase: 3980 KB)
+Run 24 - Time taken: 2.2474194 seconds
+Run 25 - Memory before multiplication: 8641 KB
+Run 25 - Memory after multiplication: 12621 KB (increase: 3980 KB)
+Run 25 - Time taken: 2.488435 seconds
+Run 26 - Memory before multiplication: 8641 KB
+Run 26 - Memory after multiplication: 12673 KB (increase: 4032 KB)
+Run 26 - Time taken: 3.0538764 seconds
+Run 27 - Memory before multiplication: 8641 KB
+Run 27 - Memory after multiplication: 12618 KB (increase: 3977 KB)
+Run 27 - Time taken: 2.3601933 seconds
+Run 28 - Memory before multiplication: 8641 KB
+Run 28 - Memory after multiplication: 12622 KB (increase: 3981 KB)
+Run 28 - Time taken: 2.2994472 seconds
+Run 29 - Memory before multiplication: 8641 KB
+Run 29 - Memory after multiplication: 12737 KB (increase: 4096 KB)
+Run 29 - Time taken: 2.1476749 seconds
+Run 30 - Memory before multiplication: 8641 KB
+Run 30 - Memory after multiplication: 12660 KB (increase: 4019 KB)
+Run 30 - Time taken: 2.6192762 seconds
+Run 31 - Memory before multiplication: 8641 KB
+Run 31 - Memory after multiplication: 12636 KB (increase: 3995 KB)
+Run 31 - Time taken: 2.8075048 seconds
+Run 32 - Memory before multiplication: 8641 KB
+Run 32 - Memory after multiplication: 12622 KB (increase: 3981 KB)
+Run 32 - Time taken: 2.6595661 seconds
+Run 33 - Memory before multiplication: 8641 KB
+Run 33 - Memory after multiplication: 12621 KB (increase: 3980 KB)
+Run 33 - Time taken: 3.111847 seconds
+Run 34 - Memory before multiplication: 8641 KB
+Run 34 - Memory after multiplication: 12626 KB (increase: 3985 KB)
+Run 34 - Time taken: 2.5694225 seconds
+Run 35 - Memory before multiplication: 8641 KB
+Run 35 - Memory after multiplication: 12619 KB (increase: 3978 KB)
+Run 35 - Time taken: 2.4779142 seconds
+Run 36 - Memory before multiplication: 8641 KB
+Run 36 - Memory after multiplication: 12619 KB (increase: 3978 KB)
+Run 36 - Time taken: 2.099323 seconds
+Run 37 - Memory before multiplication: 8641 KB
+Run 37 - Memory after multiplication: 12619 KB (increase: 3978 KB)
+Run 37 - Time taken: 1.9087251 seconds
+Run 38 - Memory before multiplication: 8641 KB
+Run 38 - Memory after multiplication: 12623 KB (increase: 3982 KB)
+Run 38 - Time taken: 2.070739 seconds
+Run 39 - Memory before multiplication: 8642 KB
+Run 39 - Memory after multiplication: 12647 KB (increase: 4005 KB)
+Run 39 - Time taken: 2.066204 seconds
+Run 40 - Memory before multiplication: 8642 KB
+Run 40 - Memory after multiplication: 12615 KB (increase: 3973 KB)
+Run 40 - Time taken: 1.9626381 seconds
+Run 41 - Memory before multiplication: 8642 KB
+Run 41 - Memory after multiplication: 12619 KB (increase: 3977 KB)
+Run 41 - Time taken: 2.1122544 seconds
+Run 42 - Memory before multiplication: 8642 KB
+Run 42 - Memory after multiplication: 12620 KB (increase: 3978 KB)
+Run 42 - Time taken: 1.9465456 seconds
+Run 43 - Memory before multiplication: 8642 KB
+Run 43 - Memory after multiplication: 12659 KB (increase: 4017 KB)
+Run 43 - Time taken: 1.9070091 seconds
+Run 44 - Memory before multiplication: 8642 KB
+Run 44 - Memory after multiplication: 12618 KB (increase: 3976 KB)
+Run 44 - Time taken: 2.0051037 seconds
+Run 45 - Memory before multiplication: 8642 KB
+Run 45 - Memory after multiplication: 12619 KB (increase: 3977 KB)
+Run 45 - Time taken: 1.9571274 seconds
+Run 46 - Memory before multiplication: 8642 KB
+Run 46 - Memory after multiplication: 12620 KB (increase: 3978 KB)
+Run 46 - Time taken: 2.0797984 seconds
+Run 47 - Memory before multiplication: 8642 KB
+Run 47 - Memory after multiplication: 12620 KB (increase: 3978 KB)
+Run 47 - Time taken: 2.4793773 seconds
+Run 48 - Memory before multiplication: 8642 KB
+Run 48 - Memory after multiplication: 12659 KB (increase: 4017 KB)
+Run 48 - Time taken: 2.6323584 seconds
+Run 49 - Memory before multiplication: 8642 KB
+Run 49 - Memory after multiplication: 12618 KB (increase: 3976 KB)
+Run 49 - Time taken: 1.9976379 seconds
+Run 50 - Memory before multiplication: 8642 KB
+Run 50 - Memory after multiplication: 12619 KB (increase: 3977 KB)
+Run 50 - Time taken: 2.050603 seconds
+
+Best time: 1.8102864 seconds
+Peak memory usage: 13404 KB
+Total memory increase: 12458 KB
+Resulting matrix first element: 207936000
+Resulting matrix last element: 207936000

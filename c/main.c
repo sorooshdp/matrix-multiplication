@@ -7,7 +7,8 @@
 #include <psapi.h>
 #endif
 
-#define SIZE 500
+/// #define SIZE 500
+#define SIZE 1000
 
 size_t get_memory_usage() {
 #ifdef _WIN32

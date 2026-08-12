@@ -1,8 +1,8 @@
+use std::mem::MaybeUninit;
 use std::thread;
 use std::time::Instant;
-use std::mem::MaybeUninit;
-use winapi::um::psapi::GetProcessMemoryInfo;
 use winapi::um::processthreadsapi::GetCurrentProcess;
+use winapi::um::psapi::GetProcessMemoryInfo;
 use winapi::um::psapi::PROCESS_MEMORY_COUNTERS_EX;
 
 fn get_memory_usage_kb() -> u64 {
@@ -11,21 +11,18 @@ fn get_memory_usage_kb() -> u64 {
         let mut counters = MaybeUninit::<PROCESS_MEMORY_COUNTERS_EX>::uninit();
         let cb = std::mem::size_of::<PROCESS_MEMORY_COUNTERS_EX>() as u32;
 
-        if GetProcessMemoryInfo(
-            process,
-            counters.as_mut_ptr() as *mut _,
-            cb
-        ) == 0 {
+        if GetProcessMemoryInfo(process, counters.as_mut_ptr() as *mut _, cb) == 0 {
             return 0;
         }
 
         let counters = counters.assume_init();
-        (counters.PrivateUsage as u64) / 1024  
+        (counters.PrivateUsage as u64) / 1024
     }
 }
 
-pub type Matrix = Box<[[u16; MATRIX_SIZE]; MATRIX_SIZE]>;
-const MATRIX_SIZE: usize = 500;
+// const MATRIX_SIZE: usize = 500;
+const MATRIX_SIZE: usize = 1000;
+pub type Matrix = Vec<[u16; MATRIX_SIZE]>;
 
 // #[inline(always)]
 // pub fn matrix_mul_parallel(a : &Matrix, b : &Matrix) -> Matrix {
@@ -87,7 +84,7 @@ const MATRIX_SIZE: usize = 500;
 
 #[inline(always)]
 pub fn matrix_mul(a: &Matrix, b: &Matrix) -> Matrix {
-    let mut c: Matrix = Box::new([[0; MATRIX_SIZE]; MATRIX_SIZE]);
+    let mut c: Matrix = vec![[0; MATRIX_SIZE]; MATRIX_SIZE];
     for i in 0..MATRIX_SIZE {
         for j in 0..MATRIX_SIZE {
             let mut sum = 0;
@@ -101,45 +98,55 @@ pub fn matrix_mul(a: &Matrix, b: &Matrix) -> Matrix {
 }
 
 fn main() {
-    let a: Matrix = Box::new([[456; MATRIX_SIZE]; MATRIX_SIZE]);
-    let b: Matrix = Box::new([[456; MATRIX_SIZE]; MATRIX_SIZE]);
+    // Allocated safely on the heap
+    let a: Matrix = vec![[456; MATRIX_SIZE]; MATRIX_SIZE];
+    let b: Matrix = vec![[456; MATRIX_SIZE]; MATRIX_SIZE];
 
     let initial_memory = get_memory_usage_kb();
     println!("Initial memory: {} KB", initial_memory);
-    println!("Using {} threads", thread::available_parallelism().map(|n| n.get()).unwrap_or(4));
+    println!(
+        "Using {} threads",
+        thread::available_parallelism()
+            .map(|n| n.get())
+            .unwrap_or(4)
+    );
 
     let mut min_duration = std::time::Duration::new(u64::MAX, 0);
     let mut peak_memory = initial_memory;
-    
+
     for i in 0..50 {
-        println!("Run {}: ", i+1);
-        
+        println!("Run {}: ", i + 1);
+
         let before_mem = get_memory_usage_kb();
         println!("Memory before: {} KB", before_mem);
 
         let start = Instant::now();
-        // you can switch between matrix_mul and matrix_mul_parallel to test both implementations 
+        // you can switch between matrix_mul and matrix_mul_parallel to test both implementations
         let c = matrix_mul(&a, &b);
-        std::hint::black_box(c); 
+        std::hint::black_box(c);
         let duration = start.elapsed();
-        
+
         let after_mem = get_memory_usage_kb();
         peak_memory = peak_memory.max(after_mem);
 
         println!("Memory delta: {} KB", after_mem - before_mem);
         println!("Time: {:?}", duration);
-        
+
         println!("Time taken: {:?}", duration);
         if duration < min_duration {
             min_duration = duration;
         }
     }
-    
-    let min_duration_in_seconds = min_duration.as_secs() as f64 + (min_duration.subsec_nanos() as f64 / 1_000_000_000.0);
-    println!("Minimum time taken in seconds: {:?}", min_duration_in_seconds);
+
+    let min_duration_in_seconds =
+        min_duration.as_secs() as f64 + (min_duration.subsec_nanos() as f64 / 1_000_000_000.0);
+    println!(
+        "Minimum time taken in seconds: {:?}",
+        min_duration_in_seconds
+    );
     println!("Peak memory usage: {} KB", peak_memory);
     println!("Total memory increase: {} KB", peak_memory - initial_memory);
-    
+
     println!("Press Enter to exit...");
     let mut input = String::new();
     std::io::stdin().read_line(&mut input).unwrap();

@@ -1,4 +1,5 @@
-const SIZE = 500;
+// const SIZE = 500;
+const SIZE = 1000;
 function getMemoryUsage() {
     return Math.round(process.memoryUsage().heapUsed / 1024);
 }

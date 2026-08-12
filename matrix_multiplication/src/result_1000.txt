@@ -1,0 +1,254 @@
+Initial memory: 4516 KB
+Run 1: 
+Memory before: 4520 KB
+Memory delta: 0 KB
+Time: 842.8703ms
+Time taken: 842.8703ms
+Run 2: 
+Memory before: 4520 KB
+Memory delta: 0 KB
+Time: 854.011ms
+Time taken: 854.011ms
+Run 3: 
+Memory before: 4520 KB
+Memory delta: 0 KB
+Time: 881.9853ms
+Time taken: 881.9853ms
+Run 4: 
+Memory before: 4520 KB
+Memory delta: 0 KB
+Time: 861.2612ms
+Time taken: 861.2612ms
+Run 5: 
+Memory before: 4520 KB
+Memory delta: 0 KB
+Time: 899.6466ms
+Time taken: 899.6466ms
+Run 6: 
+Memory before: 4520 KB
+Memory delta: 0 KB
+Time: 857.8766ms
+Time taken: 857.8766ms
+Run 7: 
+Memory before: 4520 KB
+Memory delta: 0 KB
+Time: 855.8526ms
+Time taken: 855.8526ms
+Run 8: 
+Memory before: 4520 KB
+Memory delta: 0 KB
+Time: 863.9822ms
+Time taken: 863.9822ms
+Run 9: 
+Memory before: 4520 KB
+Memory delta: 0 KB
+Time: 846.5373ms
+Time taken: 846.5373ms
+Run 10: 
+Memory before: 4520 KB
+Memory delta: 0 KB
+Time: 842.4638ms
+Time taken: 842.4638ms
+Run 11: 
+Memory before: 4520 KB
+Memory delta: 0 KB
+Time: 850.6091ms
+Time taken: 850.6091ms
+Run 12: 
+Memory before: 4520 KB
+Memory delta: 0 KB
+Time: 866.7036ms
+Time taken: 866.7036ms
+Run 13: 
+Memory before: 4520 KB
+Memory delta: 0 KB
+Time: 808.0181ms
+Time taken: 808.0181ms
+Run 14: 
+Memory before: 4520 KB
+Memory delta: 0 KB
+Time: 741.3145ms
+Time taken: 741.3145ms
+Run 15: 
+Memory before: 4520 KB
+Memory delta: 0 KB
+Time: 875.0058ms
+Time taken: 875.0058ms
+Run 16: 
+Memory before: 4520 KB
+Memory delta: 0 KB
+Time: 874.3266ms
+Time taken: 874.3266ms
+Run 17: 
+Memory before: 4520 KB
+Memory delta: 0 KB
+Time: 878.9494ms
+Time taken: 878.9494ms
+Run 18: 
+Memory before: 4520 KB
+Memory delta: 0 KB
+Time: 925.4724ms
+Time taken: 925.4724ms
+Run 19: 
+Memory before: 4520 KB
+Memory delta: 0 KB
+Time: 937.384ms
+Time taken: 937.384ms
+Run 20: 
+Memory before: 4520 KB
+Memory delta: 0 KB
+Time: 892.7639ms
+Time taken: 892.7639ms
+Run 21: 
+Memory before: 4520 KB
+Memory delta: 0 KB
+Time: 863.142ms
+Time taken: 863.142ms
+Run 22: 
+Memory before: 4520 KB
+Memory delta: 0 KB
+Time: 954.0005ms
+Time taken: 954.0005ms
+Run 23: 
+Memory before: 4520 KB
+Memory delta: 0 KB
+Time: 886.3015ms
+Time taken: 886.3015ms
+Run 24: 
+Memory before: 4520 KB
+Memory delta: 0 KB
+Time: 843.0178ms
+Time taken: 843.0178ms
+Run 25: 
+Memory before: 4520 KB
+Memory delta: 0 KB
+Time: 864.2838ms
+Time taken: 864.2838ms
+Run 26: 
+Memory before: 4520 KB
+Memory delta: 0 KB
+Time: 929.7961ms
+Time taken: 929.7961ms
+Run 27: 
+Memory before: 4520 KB
+Memory delta: 0 KB
+Time: 912.2244ms
+Time taken: 912.2244ms
+Run 28: 
+Memory before: 4520 KB
+Memory delta: 0 KB
+Time: 867.3048ms
+Time taken: 867.3048ms
+Run 29: 
+Memory before: 4520 KB
+Memory delta: 0 KB
+Time: 936.7225ms
+Time taken: 936.7225ms
+Run 30: 
+Memory before: 4520 KB
+Memory delta: 0 KB
+Time: 847.7486ms
+Time taken: 847.7486ms
+Run 31: 
+Memory before: 4520 KB
+Memory delta: 0 KB
+Time: 843.6672ms
+Time taken: 843.6672ms
+Run 32: 
+Memory before: 4520 KB
+Memory delta: 0 KB
+Time: 863.0145ms
+Time taken: 863.0145ms
+Run 33: 
+Memory before: 4520 KB
+Memory delta: 0 KB
+Time: 839.0271ms
+Time taken: 839.0271ms
+Run 34: 
+Memory before: 4520 KB
+Memory delta: 0 KB
+Time: 843.8232ms
+Time taken: 843.8232ms
+Run 35: 
+Memory before: 4520 KB
+Memory delta: 18446744073709551532 KB
+Time: 812.6563ms
+Time taken: 812.6563ms
+Run 36: 
+Memory before: 4436 KB
+Memory delta: 0 KB
+Time: 778.8528ms
+Time taken: 778.8528ms
+Run 37: 
+Memory before: 4436 KB
+Memory delta: 0 KB
+Time: 851.714ms
+Time taken: 851.714ms
+Run 38: 
+Memory before: 4436 KB
+Memory delta: 0 KB
+Time: 843.9739ms
+Time taken: 843.9739ms
+Run 39: 
+Memory before: 4436 KB
+Memory delta: 0 KB
+Time: 825.6208ms
+Time taken: 825.6208ms
+Run 40: 
+Memory before: 4436 KB
+Memory delta: 0 KB
+Time: 858.9408ms
+Time taken: 858.9408ms
+Run 41: 
+Memory before: 4436 KB
+Memory delta: 0 KB
+Time: 827.0838ms
+Time taken: 827.0838ms
+Run 42: 
+Memory before: 4436 KB
+Memory delta: 0 KB
+Time: 865.7965ms
+Time taken: 865.7965ms
+Run 43: 
+Memory before: 4436 KB
+Memory delta: 0 KB
+Time: 867.4617ms
+Time taken: 867.4617ms
+Run 44: 
+Memory before: 4436 KB
+Memory delta: 0 KB
+Time: 826.1033ms
+Time taken: 826.1033ms
+Run 45: 
+Memory before: 4436 KB
+Memory delta: 0 KB
+Time: 926.789ms
+Time taken: 926.789ms
+Run 46: 
+Memory before: 4436 KB
+Memory delta: 0 KB
+Time: 941.1067ms
+Time taken: 941.1067ms
+Run 47: 
+Memory before: 4436 KB
+Memory delta: 0 KB
+Time: 978.8665ms
+Time taken: 978.8665ms
+Run 48: 
+Memory before: 4436 KB
+Memory delta: 0 KB
+Time: 938.4401ms
+Time taken: 938.4401ms
+Run 49: 
+Memory before: 4436 KB
+Memory delta: 0 KB
+Time: 838.0802ms
+Time taken: 838.0802ms
+Run 50: 
+Memory before: 4436 KB
+Memory delta: 0 KB
+Time: 891.5748ms
+Time taken: 891.5748ms
+Minimum time taken in seconds: 0.7413145
+Peak memory usage: 4520 KB
+Total memory increase: 4 KB

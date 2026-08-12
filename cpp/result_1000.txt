@@ -1,0 +1,156 @@
+Initial memory: 8868 KB
+Run 1 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.579384 s
+Run 2 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.616566 s
+Run 3 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.55402 s
+Run 4 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.550963 s
+Run 5 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.546134 s
+Run 6 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.560211 s
+Run 7 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.595465 s
+Run 8 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.639828 s
+Run 9 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.531085 s
+Run 10 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.529973 s
+Run 11 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.530616 s
+Run 12 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.595873 s
+Run 13 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.533111 s
+Run 14 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.541686 s
+Run 15 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.523836 s
+Run 16 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.542698 s
+Run 17 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.538741 s
+Run 18 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.526668 s
+Run 19 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.531702 s
+Run 20 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.532521 s
+Run 21 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.555244 s
+Run 22 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.608885 s
+Run 23 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.572651 s
+Run 24 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.605375 s
+Run 25 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.696504 s
+Run 26 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 1.08263 s
+Run 27 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.699974 s
+Run 28 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.57724 s
+Run 29 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.583056 s
+Run 30 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.571136 s
+Run 31 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.57586 s
+Run 32 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.750251 s
+Run 33 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.740082 s
+Run 34 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.571547 s
+Run 35 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.841841 s
+Run 36 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.700757 s
+Run 37 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.608818 s
+Run 38 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.681261 s
+Run 39 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.867873 s
+Run 40 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.635175 s
+Run 41 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.621639 s
+Run 42 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.598532 s
+Run 43 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.635557 s
+Run 44 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.626919 s
+Run 45 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.798982 s
+Run 46 - Memory before: 8876 KB
+Memory delta: 3916 KB
+Time: 0.621954 s
+Run 47 - Memory before: 8876 KB
+Memory delta: 3884 KB
+Time: 0.867315 s
+Run 48 - Memory before: 8844 KB
+Memory delta: 3916 KB
+Time: 1.0889 s
+Run 49 - Memory before: 8844 KB
+Memory delta: 3916 KB
+Time: 1.0868 s
+Run 50 - Memory before: 8844 KB
+Memory delta: 3916 KB
+Time: 1.26005 s
+
+Peak memory: 12792 KB
+Total increase: 3924 KB
+Min time: 0.523836 s
+First 10 elements of result matrix: 207936000 207936000 207936000 207936000 207936000 207936000 207936000 207936000 207936000 207936000 Press Enter to exit...

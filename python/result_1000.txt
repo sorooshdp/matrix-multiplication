@@ -1,0 +1,7 @@
+Initial memory: 23240 KB
+Run 1 - Before: 23240 KB
+Delta: 41452 KB
+Time: 80.079045 s
+Run 2 - Before: 64692 KB
+Delta: 27524 KB
+Time: 98.022923 s

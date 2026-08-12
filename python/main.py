@@ -4,7 +4,7 @@ import os
 import multiprocessing as mp
 from multiprocessing import Pool
 
-SIZE = 500
+SIZE = 1000
 
 def get_memory_usage():
     return psutil.Process(os.getpid()).memory_full_info().uss // 1024

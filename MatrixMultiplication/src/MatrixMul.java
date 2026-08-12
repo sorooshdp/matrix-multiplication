@@ -1,5 +1,6 @@
 public class MatrixMul {
-    private static final int SIZE = 500;
+    // private static final int SIZE = 500;
+    private static final int SIZE = 1000;
     
     private static long getMemoryUsage() {
         return (Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory()) / 1024;

@@ -1,0 +1,168 @@
+[Running] node "e:\education\programming\rust\matrix_multiplication\js\matrixMul.js"
+Initial memory: 3788 KB
+Run 1 - Before: 4351 KB
+Delta: 21 KB
+Time: 3.989099 s
+Run 2 - Before: 4375 KB
+Delta: 2 KB
+Time: 3.514415 s
+Run 3 - Before: 4388 KB
+Delta: 4 KB
+Time: 3.958970 s
+Run 4 - Before: 4431 KB
+Delta: 2 KB
+Time: 3.709310 s
+Run 5 - Before: 4436 KB
+Delta: 2 KB
+Time: 3.691722 s
+Run 6 - Before: 4440 KB
+Delta: 2 KB
+Time: 3.686484 s
+Run 7 - Before: 4444 KB
+Delta: 1 KB
+Time: 4.204001 s
+Run 8 - Before: 4448 KB
+Delta: -251 KB
+Time: 4.026042 s
+Run 9 - Before: 4199 KB
+Delta: 2 KB
+Time: 3.615497 s
+Run 10 - Before: 4203 KB
+Delta: 2 KB
+Time: 3.723940 s
+Run 11 - Before: 4207 KB
+Delta: 2 KB
+Time: 3.509570 s
+Run 12 - Before: 4211 KB
+Delta: 1 KB
+Time: 3.666597 s
+Run 13 - Before: 4215 KB
+Delta: 1 KB
+Time: 3.444337 s
+Run 14 - Before: 4219 KB
+Delta: -23 KB
+Time: 3.200557 s
+Run 15 - Before: 4199 KB
+Delta: 1 KB
+Time: 3.420335 s
+Run 16 - Before: 4203 KB
+Delta: 1 KB
+Time: 2.863244 s
+Run 17 - Before: 4206 KB
+Delta: 2 KB
+Time: 2.674059 s
+Run 18 - Before: 4210 KB
+Delta: 2 KB
+Time: 2.708748 s
+Run 19 - Before: 4222 KB
+Delta: 1 KB
+Time: 2.650270 s
+Run 20 - Before: 4225 KB
+Delta: 2 KB
+Time: 2.653359 s
+Run 21 - Before: 4229 KB
+Delta: 2 KB
+Time: 2.666447 s
+Run 22 - Before: 4233 KB
+Delta: -29 KB
+Time: 2.683052 s
+Run 23 - Before: 4207 KB
+Delta: 1 KB
+Time: 3.403874 s
+Run 24 - Before: 4211 KB
+Delta: 1 KB
+Time: 3.027990 s
+Run 25 - Before: 4214 KB
+Delta: 2 KB
+Time: 3.301731 s
+Run 26 - Before: 4218 KB
+Delta: 2 KB
+Time: 4.202776 s
+Run 27 - Before: 4222 KB
+Delta: 2 KB
+Time: 4.239313 s
+Run 28 - Before: 4226 KB
+Delta: 2 KB
+Time: 5.573815 s
+Run 29 - Before: 4230 KB
+Delta: 2 KB
+Time: 4.640231 s
+Run 30 - Before: 4234 KB
+Delta: 2 KB
+Time: 4.230813 s
+Run 31 - Before: 4239 KB
+Delta: 1 KB
+Time: 4.188397 s
+Run 32 - Before: 4243 KB
+Delta: 1 KB
+Time: 3.697349 s
+Run 33 - Before: 4246 KB
+Delta: 2 KB
+Time: 4.043918 s
+Run 34 - Before: 4250 KB
+Delta: 2 KB
+Time: 4.246696 s
+Run 35 - Before: 4254 KB
+Delta: 2 KB
+Time: 5.140374 s
+Run 36 - Before: 4258 KB
+Delta: 1 KB
+Time: 4.056142 s
+Run 37 - Before: 4262 KB
+Delta: 1 KB
+Time: 3.961550 s
+Run 38 - Before: 4266 KB
+Delta: -61 KB
+Time: 3.830875 s
+Run 39 - Before: 4208 KB
+Delta: 1 KB
+Time: 3.924817 s
+Run 40 - Before: 4212 KB
+Delta: 1 KB
+Time: 3.837900 s
+Run 41 - Before: 4215 KB
+Delta: 2 KB
+Time: 3.706960 s
+Run 42 - Before: 4219 KB
+Delta: 2 KB
+Time: 3.561448 s
+Run 43 - Before: 4223 KB
+Delta: 2 KB
+Time: 4.196761 s
+Run 44 - Before: 4227 KB
+Delta: 1 KB
+Time: 4.046069 s
+Run 45 - Before: 4231 KB
+Delta: 1 KB
+Time: 4.431118 s
+Run 46 - Before: 4235 KB
+Delta: 2 KB
+Time: 4.273614 s
+Run 47 - Before: 4239 KB
+Delta: 2 KB
+Time: 4.212421 s
+Run 48 - Before: 4243 KB
+Delta: 2 KB
+Time: 4.542069 s
+Run 49 - Before: 4247 KB
+Delta: 2 KB
+Time: 3.811292 s
+Run 50 - Before: 4251 KB
+Delta: 1 KB
+Time: 3.886010 s
+
+Result (first 10 elements):
+207936000
+207936000
+207936000
+207936000
+207936000
+207936000
+207936000
+207936000
+207936000
+207936000
+
+Peak: 4445 KB
+Total increase: 657 KB
+Min time: 2.650270 s
